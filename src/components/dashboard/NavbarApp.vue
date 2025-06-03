@@ -79,7 +79,7 @@ const handleLogout = () => {
 						/>
 						<span
 							class="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap dark:text-white"
-							>Sugerido de Pedidos</span
+							>aplicativo MCD</span
 						>
 					</RouterLink>
 				</div>
@@ -136,13 +136,13 @@ const handleLogout = () => {
 									class="text-sm text-gray-900 dark:text-white"
 									role="none"
 								>
-									Daniel Gonzalez
+									SuperAdmin
 								</p>
 								<p
 									class="text-sm font-medium text-gray-900 truncate dark:text-gray-300"
 									role="none"
 								>
-									dan.gonzalez@tiendasdaka.com
+									superAdmin@tiendasDaka.com
 								</p>
 							</div>
 							<ul class="py-1" role="none">

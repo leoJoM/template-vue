@@ -58,8 +58,8 @@ const handleLogin = async () => {
 		authStore.clearError() // Limpiar errores anteriores
 		try {
 			await authStore.login({
-				Email: username.value,
-				Password: password.value
+				email: username.value,
+				password: password.value
 			})
 		} catch (error) {
 			console.log('error')

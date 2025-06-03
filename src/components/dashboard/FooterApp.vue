@@ -16,7 +16,7 @@ onMounted(() => {
 			>
 				<span
 					class="text-sm text-gray-500 sm:text-center dark:text-gray-400"
-					>© 2024
+					>© 2025
 					<a href="/" class="hover:underline">Tiendas Daka™</a>. All
 					Rights Reserved.
 				</span>

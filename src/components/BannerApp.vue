@@ -50,14 +50,14 @@ onMounted(() => {
 				<h1
 					class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white"
 				>
-					Sugerido de pedidos Tiendas Daka™
+					MCD ™
 				</h1>
 				<p
 					class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 lg:px-48 dark:text-gray-200"
 				>
 					Hola
 					<span class="text-blue-500 font-semibold">{{ User }}</span
-					>, bienvenido a la aplicacion de sugerido de pedidos de
+					>, bienvenido a la aplicacion de MCD de 
 					Tiendas Daka, la tienda mas feliz de venezuela.
 				</p>
 				<form class="w-full max-w-md mx-auto">
